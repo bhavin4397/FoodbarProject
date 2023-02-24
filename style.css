@@ -1,0 +1,85 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+.navbar{
+    background-color: #95e5da;
+    
+}
+
+/* heroSection */
+.background {
+    background-color: #95e5da;
+    padding: 60px;
+
+}
+
+.cardStyle {
+    margin: 50px auto 50px auto;
+}
+
+/* FeatureSection */
+.featureSection {
+    padding: 20px;
+
+}
+
+.feature {
+    padding: 20px;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    flex-wrap: wrap;
+    /* height: 20rem; */
+}
+
+/* testimonial */
+.testimonials {
+    padding: 20px;
+    background-color: #95e5da;
+
+}
+
+.carouselStyle {
+    padding: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Pricing */
+.pricingSection {
+    padding: 20px;
+    /* height: 22rem; */
+}
+
+.productStyle {
+
+    padding: 20px;
+    display: flex;
+    gap: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+/* ctaSection */
+.ctaSection{
+    background-color: #95e5da;
+    color: black;
+    padding: 30px;
+}
+
+
+/* footer */
+.footer {
+    padding: 20px;
+    background-color: #154942;
+    color: orange;
+}
+/* subcribtion Image */
+.subcribe{
+    
+    margin-top: 10%;
+    margin-left:auto ;
+    margin-right: auto ;
+}
